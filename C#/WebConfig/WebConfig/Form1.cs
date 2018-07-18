@@ -18,7 +18,7 @@ namespace WebConfig
     {
         public Form1()
         {
-            InitializeComponent();;/
+            InitializeComponent();
         }
         //foreach (XDocument doc = XDocument.Load("D:\\product.xml"))
         private void button1_Click(object sender, EventArgs e)
