@@ -1,0 +1,10 @@
+c:\users\fmushtaq\documents\visual studio 2015\Projects\WebConfig\WebConfig\bin\Debug\WebConfig.exe.config
+c:\users\fmushtaq\documents\visual studio 2015\Projects\WebConfig\WebConfig\bin\Debug\WebConfig.exe
+c:\users\fmushtaq\documents\visual studio 2015\Projects\WebConfig\WebConfig\bin\Debug\WebConfig.pdb
+c:\users\fmushtaq\documents\visual studio 2015\Projects\WebConfig\WebConfig\obj\Debug\WebConfig.Form1.resources
+c:\users\fmushtaq\documents\visual studio 2015\Projects\WebConfig\WebConfig\obj\Debug\WebConfig.Properties.Resources.resources
+c:\users\fmushtaq\documents\visual studio 2015\Projects\WebConfig\WebConfig\obj\Debug\WebConfig.csproj.GenerateResource.Cache
+c:\users\fmushtaq\documents\visual studio 2015\Projects\WebConfig\WebConfig\obj\Debug\WebConfig.exe
+c:\users\fmushtaq\documents\visual studio 2015\Projects\WebConfig\WebConfig\obj\Debug\WebConfig.pdb
+C:\Users\fmushtaq\Documents\Visual Studio 2015\Projects\WebConfig\WebConfig\obj\Debug\WebConfig.csprojResolveAssemblyReference.cache
+C:\Users\fmushtaq\Documents\Visual Studio 2015\Projects\WebConfig\WebConfig\obj\Debug\WebConfig.MyMessagebox.resources
