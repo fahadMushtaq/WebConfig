@@ -18,18 +18,15 @@ namespace WebConfig
     {
         public Form1()
         {
-            InitializeComponent()
+            InitializeComponent();
         }
         //foreach (XDocument doc = XDocument.Load("D:\\product.xml"))
         private void button1_Click(object sender, EventArgs e)
         {
 
-			//asoa;hakljdha;sdhas			
-			// Checking my Commit 
-		
             string[] files = Directory.GetFiles("D:\\configs\\","*.*",SearchOption.AllDirectories);
             ArrayList list = new ArrayList();
-            int Count1 = 5;
+            int Count1 = 0;
             int testCount = 0;
             int stopcount = 0;
             int oldcount = 0;
