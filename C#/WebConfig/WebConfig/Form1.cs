@@ -29,7 +29,7 @@ namespace WebConfig
 		
             string[] files = Directory.GetFiles("D:\\configs\\","*.*",SearchOption.AllDirectories);
             ArrayList list = new ArrayList();
-            int Count1 = 3;
+            int Count1 = 4;
             int testCount = 0;
             int stopcount = 0;
             int oldcount = 0;
