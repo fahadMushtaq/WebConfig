@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml;
 using System.Xml.Linq;
-///testing Rule1hhhhh
+///testing Rule1
 namespace WebConfig
 {
     public partial class Form1 : Form
